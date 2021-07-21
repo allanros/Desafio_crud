@@ -19,7 +19,7 @@ endif;
     <br>
     <h3 class="">Informações para contato</h3>
     <form action="php_action/update_contact.php" method="POST">
-      <input type="hidden" name="id_client" value="<?php echo $dados['id']; ?>">
+      <input type="hidden" name="id" value="<?php echo $dados['id']; ?>">
       <div class="row">
         <div class="input-field col s6">
           <input type="text" name="contato_nome" id="contato_nome" value="<?php echo $dados['contato_nome']; ?>">
