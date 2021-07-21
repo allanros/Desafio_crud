@@ -11,7 +11,7 @@ endif;
 ?>
 
 <div class="row" style="font-family: times;">
-  <h2 style="margin-left: 7em;" class=""> Cadastro </h2>
+  <h2 style="margin-left: 7em;" class=""> Edição </h2>
   <hr>
   <div class="col s12 m6 push-m3 grey lighten-4" style="border-radius: 8%; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
   padding: 0 3em 3em 3em;">
